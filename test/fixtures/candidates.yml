@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  number: MyString
+  organ: one
+  foto: MyString
+
+two:
+  user: two
+  number: MyString
+  organ: two
+  foto: MyString
